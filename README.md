@@ -1,2 +1,2 @@
-# test-repository-by-zaesar
+# Test repository by zaesar
 testing repositories in github
